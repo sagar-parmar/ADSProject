@@ -1,0 +1,8 @@
+--> Generating graph with 2000 nodes and 1999000 edges
+--> Graph generated ...
+Simple Scheme:
+TotalCost = 3391
+Time Taken = 1061 ms
+Fibonacci Scheme:
+TotalCost = 2391
+Time Taken = 647 ms
